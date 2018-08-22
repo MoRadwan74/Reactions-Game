@@ -1,0 +1,17 @@
+@font-face{
+    src : url(Fonts/Play-Regular.ttf);
+    font-family: Play-Regular;
+}
+body{
+    font-family: Play-Regular;
+    background-color: #29292D;
+    color: #FFF;
+    font-size: 20px;
+}
+#shape{
+    height: 200px;
+    width: 200px;
+    background-color: #f0c060;
+    display: none;
+    position: relative;
+}
